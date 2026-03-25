@@ -47,7 +47,7 @@ Created an interactive dashboard to visualize:
 ---
 
 ## 🔹 Dashboard Preview
-[Dashboard](<img width="1853" height="978" alt="Dashboard" src="https://github.com/user-attachments/assets/eec4dc44-9bce-406e-89a9-8210930fc06d" />
+1[Dashboard](<img width="1853" height="978" alt="Dashboard" src="https://github.com/user-attachments/assets/eec4dc44-9bce-406e-89a9-8210930fc06d" />
 )
 
 ---
