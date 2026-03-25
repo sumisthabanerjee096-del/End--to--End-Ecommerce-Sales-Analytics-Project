@@ -52,8 +52,8 @@ Created an interactive dashboard to visualize:
 ---
 
 ## 🔹 Files Included
-- `data/` → Cleaned dataset
-- `python/` → Data cleaning notebook
+-`/` → Cleaned dataset
+-`python/`→ Data cleaning notebook
 - `sql/` → SQL queries
 - `powerbi/` → Power BI dashboard file
 
